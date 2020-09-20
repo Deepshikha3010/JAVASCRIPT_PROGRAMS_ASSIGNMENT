@@ -1,4 +1,4 @@
-function add(a,b){
+ function add(a,b){
     var x=parseInt(prompt());//String converted into int using parseInt
     var y=parseInt(prompt());
     var sum=0;
@@ -6,6 +6,6 @@ function add(a,b){
    console.log(sum);
    
 }
-add();
+ add();
 
 
